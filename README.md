@@ -1,2 +1,3 @@
-# WPE_WebGL_Audio_Visualizer
+# WPE WebGL Audio Visualizer
  
+Проект для Wallpaper Engine - простой аудиовизуализатор на WebGL/JS.
